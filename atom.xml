@@ -4,10 +4,10 @@
     <name>hakuoki</name>
   </author>
   <generator uri="https://hexo.io/">Hexo</generator>
-  <icon>http://example.com/icon.png</icon>
-  <id>http://example.com/</id>
-  <link href="http://example.com/" rel="alternate"/>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <icon>https://hakuoki.github.io/icon.png</icon>
+  <id>https://hakuoki.github.io/</id>
+  <link href="https://hakuoki.github.io/" rel="alternate"/>
+  <link href="https://hakuoki.github.io/atom.xml" rel="self"/>
   <rights>All rights reserved 2026, hakuoki</rights>
   <subtitle>一只🐭的碎碎念</subtitle>
   <title>Hakuoki的个人博客喵</title>
@@ -16,8 +16,8 @@
     <author>
       <name>hakuoki</name>
     </author>
-    <id>http://example.com/2013/12/24/hello-world/</id>
-    <link href="http://example.com/2013/12/24/hello-world/"/>
+    <id>https://hakuoki.github.io/2013/12/24/hello-world/</id>
+    <link href="https://hakuoki.github.io/2013/12/24/hello-world/"/>
     <published>2013-12-24T09:49:32.000Z</published>
     <summary>
       <![CDATA[<p>Welcome to <a href="http://zespia.tw/hexo">Hexo</a>! This is your very first post. Check <a]]>
