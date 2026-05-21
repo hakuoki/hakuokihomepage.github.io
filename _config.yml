@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: Hakuoki的个人博客喵
+subtitle: '一只🐭的碎碎念'
+description: 'hakuoki是一只隐鼠'
+keywords: 'hakuoki, hakuoki的个人博客喵, 个人博客'
+author: hakuoki
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -101,9 +101,11 @@ theme: reimu
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/hakuoki/hakuokihomepage.github.io.git
+  branch: main
 
-feed:
+ feed:
   enable: true
   type: atom
   path: atom.xml
