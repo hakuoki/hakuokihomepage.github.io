@@ -4,6 +4,7 @@ db.json
 *.log
 node_modules/*
 !node_modules/@reimujs/
+node_modules/@reimujs/hexo-renderer-markdown-it-plus/node_modules/*
 public/
 .deploy*/
 _multiconfig.yml
