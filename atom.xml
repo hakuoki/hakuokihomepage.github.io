@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>hakuoki</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <icon>http://example.com/icon.png</icon>
+  <id>http://example.com/</id>
+  <link href="http://example.com/" rel="alternate"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, hakuoki</rights>
+  <subtitle>一只🐭的碎碎念</subtitle>
+  <title>Hakuoki的个人博客喵</title>
+  <updated>2026-05-21T18:53:20.929Z</updated>
+  <entry>
+    <author>
+      <name>hakuoki</name>
+    </author>
+    <id>http://example.com/2013/12/24/hello-world/</id>
+    <link href="http://example.com/2013/12/24/hello-world/"/>
+    <published>2013-12-24T09:49:32.000Z</published>
+    <summary>
+      <![CDATA[<p>Welcome to <a href="http://zespia.tw/hexo">Hexo</a>! This is your very first post. Check <a]]>
+    </summary>
+    <title>Hello World</title>
+    <updated>2026-05-21T18:53:20.929Z</updated>
+  </entry>
+</feed>
