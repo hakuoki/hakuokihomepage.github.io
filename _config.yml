@@ -102,7 +102,7 @@ theme: reimu
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/hakuoki/hakuokihomepage.github.io.git
+  repo: https://github.com/hakuoki/hakuoki.github.io.git
   branch: main
 
 feed:
